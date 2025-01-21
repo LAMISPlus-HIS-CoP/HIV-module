@@ -26,7 +26,7 @@
     "@material-ui/styles": "^4.9.0",
     "@mui/icons-material": "^5.8.4",
     "@mui/material": "^5.5.0",
-    "@reach/menu-button": "^0.10.1",
+    "@reach/menu-button": "^0.18.0",
     "@svg-maps/usa": "^1.1.1",
     "@svg-maps/world": "^1.0.1",
     "@sweetalert/with-react": "^0.1.1",
